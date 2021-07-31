@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Taha-1005
-- 👀 I’m interested in 
+- 👀 I’m interested in Competetive Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:tahafbharucha@gmail.com
 
 <!---
